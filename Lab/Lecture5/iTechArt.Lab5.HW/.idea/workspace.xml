@@ -5,161 +5,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a07f7ed-f8c6-4964-9ef8-bb0528eadc1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ChapteOne/New/New.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterEight/ChapterEight/ChapterEight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/ChapterNine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/RegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterTen/ChapterTen/ChapterTen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Calculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChapterTwo/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/PropertiesExcel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_HTML/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Reading/FileReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Txt/WritingFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/config/object.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/test/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/newA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/newPackage/ExampleTestNG4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/exampleTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/testallng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/testngAnnotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/testngGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/testngHelperFunctions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium10/testngParallelRunning.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/StandAloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/src/test/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/src/test/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium12/src/test/java/org/example/StandAloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/StandAloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/ForgotPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/CheckSuccessLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/DriverCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnterMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnteredPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/ForgotPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/RefreshPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium4WindowsActivities/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium4WindowsActivities/src/main/java/org/example/WindowActivities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DriverGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DropdownStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/EndToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium6Amazon/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/CookieAndScrollAndBrokenLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/ExartractChildAndParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/GetDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/LocatorsTabsScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BadSSL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BrokenLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/DeleteCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/GetDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/ScrollPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/GetDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/RelativeLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/TakeScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumLast/SeleniumLast/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/src/test/java/org/example/TestOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RunAllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFive/ChapterFive/ChapterFive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/RegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterNine/ChapterNine/src/RegularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterSix/ChapterSix/ChapterSix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Calculations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChapterTen/ChapterTen/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/ChapterThree/ChapterThree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_HTML/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_HTML/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Reading/FileReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Reading/FileReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Txt/WritingFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/Streams_Txt/WritingFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/config/object.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/config/object.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/test/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PropertiesExcel/PropertiesExcel/src/test/TestCase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/annotations/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/groups/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/helperFunctions/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/newA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/listeners/newA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/newPackage/ExampleTestNG4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/newPackage/ExampleTestNG4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/ExampleTestNG3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/exampleTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/org/example/exampleTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parallelRunning/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassE.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/src/main/java/parametrization/ClassE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/testallng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/testallng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/testngAnnotations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/testngAnnotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/testngGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/testngGroups.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/testngHelperFunctions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/testngHelperFunctions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium10/testngParallelRunning.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium10/testngParallelRunning.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium11/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/StandAloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium11/src/test/java/org/example/StandAloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/StandAloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium13/src/test/java/org/example/StandAloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/ForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/ForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium2/Selenium2/src/main/java/org/example/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/CheckSuccessLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/CheckSuccessLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/DriverCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/DriverCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnterMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnterMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnteredPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/EnteredPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/ForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/ForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/RefreshPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium3/src/main/java/org/example/RefreshPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium4WindowsActivities/src/main/java/org/example/WindowActivities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium4WindowsActivities/src/main/java/org/example/WindowActivities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DriverGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DriverGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DropdownStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/DropdownStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/EndToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium5/src/main/java/org/example/EndToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/CookieAndScrollAndBrokenLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/CookieAndScrollAndBrokenLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/ExartractChildAndParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/ExartractChildAndParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/GetDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/GetDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/LocatorsTabsScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/LocatorsTabsScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium7/src/main/java/org/example/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BadSSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BadSSL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BrokenLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/BrokenLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/DeleteCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/DeleteCookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/GetDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/GetDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/ScrollPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium8/src/main/java/org/example/ScrollPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/GetDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/GetDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/RelativeLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/RelativeLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium9/src/main/java/org/example/TakeScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumLesson1/SeleniumLesson1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumLesson1/SeleniumLesson1/SeleniumLesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumLesson1/SeleniumLesson1/src/TesNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumLesson1/SeleniumLesson1/src/TestSelenium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/Selenium_Test/src/main/java/org/example/TestSelenium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab1.Lecture/src/test/java/org/example/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
