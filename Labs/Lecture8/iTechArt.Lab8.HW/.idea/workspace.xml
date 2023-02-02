@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5f9282-f37e-496e-8510-57c854450b85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/src/test/java/org/example/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab8.HW/src/test/java/org/example/SeleniumTest.java" afterDir="false" />
+    <list default="true" id="ebc5677a-5362-4620-b9d3-ed8abf776850" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture5/iTechArt.Lab5.HW/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture5/iTechArt.Lab5.HW/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture5/iTechArt.Lab5.HW/.idea/encodings.xml" beforeDir="false" />
@@ -128,9 +128,9 @@
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture8/iTechArt.Lab7.Lecture:HW/target/test-classes/BDDTest/Calculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture8/iTechArt.Lab7.Lecture:HW/target/test-classes/org/example/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Lab/Lecture8/iTechArt.Lab7.Lecture:HW/target/test-classes/org/example/SeleniumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MultibrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MultibrowserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/target/test-classes/org/example/MultibrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab8.Lecture/target/test-classes/org/example/MultibrowserTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,23 +150,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2L7uZ8b9tU6yPFgAKoryBtotf2V" />
+  <component name="ProjectId" id="2LAvUqodxSvVH1bRuxtnNxWeI3S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture8/iTechArt.Lab8.Lecture&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.Test.test (1)">
-    <configuration name="MultibrowserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="iTechArt.Lab7.Lecture" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SeleniumTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab8.HW" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -174,39 +173,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.MultibrowserTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="iTechArt.Lab8.Lecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="iTechArt.Lab7.Lecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Test" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumTest" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,20 +182,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test.test (1)" />
-        <item itemvalue="JUnit.MultibrowserTest" />
-        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="JUnit.SeleniumTest.Test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c5f9282-f37e-496e-8510-57c854450b85" name="Changes" comment="" />
-      <created>1675234497472</created>
+      <changelist id="ebc5677a-5362-4620-b9d3-ed8abf776850" name="Changes" comment="" />
+      <created>1675326721981</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675234497472</updated>
+      <updated>1675326721981</updated>
     </task>
     <servers />
   </component>

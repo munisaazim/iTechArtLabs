@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="iTechArt.Lab7.Lecture" />
-        <module name="iTechArt.Lab8.Lecture" />
+        <module name="iTechArt.Lab8.HW" />
       </profile>
     </annotationProcessing>
   </component>
