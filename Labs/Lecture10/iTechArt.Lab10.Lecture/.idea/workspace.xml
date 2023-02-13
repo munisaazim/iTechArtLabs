@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554c1994-fc94-4229-bd85-6fc3b53aa754" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQAAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQASetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQAWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQAClicks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_2/ToolQASetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_2/ToolQATests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_2/ToolQAssertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQAAssertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQASetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQASetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW/DemoQAWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab10.HW/src/test/java/HW_Task_1/DemoQAWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/target/test-classes/HW/DemoQA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/target/test-classes/HW/DemoQAAssertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/target/test-classes/HW/DemoQASetUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/target/test-classes/HW/DemoQATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.HW/target/test-classes/HW/DemoQAWait.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
