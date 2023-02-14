@@ -1,11 +1,11 @@
-package HW_Task_1;
+package HW_Task_3;
 
 import org.openqa.selenium.WebDriver;
 
-public class DemoQASetUp {
+public class BrowserWindowSetUp {
     private WebDriver driver;
 
-    public DemoQASetUp(WebDriver driver){
+    public BrowserWindowSetUp(WebDriver driver){
         this.driver = driver;
     }
 

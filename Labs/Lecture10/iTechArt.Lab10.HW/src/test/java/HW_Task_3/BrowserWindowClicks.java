@@ -1,16 +1,16 @@
-package HW_Task_1;
+package HW_Task_3;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
-public class DemoQAClicks {
+public class BrowserWindowClicks {
     private WebDriver driver;
     private JavascriptExecutor js;
     private Alert alert;
 
-    public DemoQAClicks(WebDriver driver){
+    public BrowserWindowClicks(WebDriver driver){
         this.driver = driver;
     }
     public void clickOnAlertButton(By xpath){
@@ -29,5 +29,4 @@ public class DemoQAClicks {
         alert = driver.switchTo().alert();
         alert.sendKeys("Munisa");
     }
-
 }

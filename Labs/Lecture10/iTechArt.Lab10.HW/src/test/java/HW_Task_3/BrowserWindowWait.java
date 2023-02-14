@@ -1,5 +1,7 @@
-package HW_Task_1;
+package HW_Task_3;
 
+import HW_Task_1.DemoQAWait;
+import HW_Task_1.DemoQAssertion;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class DemoQAWait {
+public class BrowserWindowWait {
     private WebDriver driver;
     private By waitOpened = By.xpath("//img[@src = '/images/Toolsqa.jpg']");
 
@@ -21,7 +23,7 @@ public class DemoQAWait {
 
     private DemoQAWait demo;
     private int setTime;
-    public DemoQAWait(WebDriver driver, WebDriverWait wait, int setTime){
+    public BrowserWindowWait(WebDriver driver, WebDriverWait wait, int setTime){
         this.driver = driver;
         demoQAAssertion = new DemoQAssertion(driver);
         this.setTime = setTime;

@@ -5,26 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423063ed-d926-499d-a401-f151a957b108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAClicks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQASetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQATests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowClicks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindowAssertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindowClicks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindowSetUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindowTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_3/BrowserWindowWait.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW/DemoQA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW/DemoQAAssertion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW/DemoQASetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQASetUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW/DemoQATest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW/DemoQAWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HW/DemoQA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HW/DemoQAAssertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HW/DemoQASetUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HW/DemoQATest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HW/DemoQAWait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab10.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab10.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAClicks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAClicks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQASetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQASetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HW_Task_1/DemoQAssertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_1/DemoQAssertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HW_Task_2/ToolQA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HW_Task_2/ToolQA.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +57,53 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.ToolQATests.Tests">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW_Task_3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BrowserWindowTests.Test">
+    <configuration name="BrowserWindowTests.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab10.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HW_Task_3" />
+      <option name="MAIN_CLASS_NAME" value="HW_Task_3.BrowserWindowTests" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoQATest.Test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab10.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HW_Task_3" />
+      <option name="MAIN_CLASS_NAME" value="HW_Task_3.DemoQATest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoQATest.Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="iTechArt.Lab10.HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_Task_1.*" />
+          <option name="PATTERN" value="HW_Task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BrowserWindowTests.Test" />
+        <item itemvalue="TestNG.DemoQATest.Test (1)" />
         <item itemvalue="TestNG.ToolQATests.Tests" />
         <item itemvalue="TestNG.DemoQATest.Test" />
       </list>
