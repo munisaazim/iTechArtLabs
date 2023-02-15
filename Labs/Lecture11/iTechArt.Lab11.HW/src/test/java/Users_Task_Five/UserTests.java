@@ -16,6 +16,10 @@ public class UserTests {
     public void test() throws InterruptedException {
         UserFunctions userFunctions = new UserFunctions(driver);
         userFunctions.enterMainPage();
+        userFunctions.assertMainPage();
         userFunctions.firstUser();
+        userFunctions.firsrUserPage();
+        userFunctions.goToParentPage();
+        userFunctions.assertMainPage();
     }
 }

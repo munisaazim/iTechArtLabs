@@ -25,6 +25,10 @@ public class UserFunctions {
         userSetUp().setUp();
         driver.get("http://the-internet.herokuapp.com/hovers");
     }
+    public void assertMainPage(){
+        String text = driver.findElement(By.xpath("//h3")).getText();
+        userAssertions().assertMainPage(text);
+    }
     public void firstUser() throws InterruptedException {
         WebElement element = driver.findElement(By.xpath("(//*[@src ='/img/avatar-blank.jpg'])[1]"));
         this.getUrl = driver.getCurrentUrl();
@@ -37,7 +41,11 @@ public class UserFunctions {
         actions.moveToElement(element2).build().perform();
         this.js.executeScript("arguments[0].click()", element2);
     }
-    public void goToParebtPage(){
-        driver.switchTo().window(getUrl);
+    public void firsrUserPage(){
+        String text = driver.getCurrentUrl();
+        userAssertions().assertUserPage(text);
+    }
+    public void goToParentPage(){
+        driver.get(getUrl);
     }
 }
