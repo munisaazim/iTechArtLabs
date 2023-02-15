@@ -1,24 +1,24 @@
-package BasicAuthorization;
+package UploadImage_Task_Two;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class BasicAuthorizationTests {
+public class UploadImageTests {
     private WebDriver driver;
-
     @BeforeTest
     public void setDriver(){
-    driver  = new ChromeDriver();
-}
+        driver = new ChromeDriver();
+    }
     @Test
     public void test(){
-        BasicAuthorization  basicAuthorization = new BasicAuthorization(driver);
-        basicAuthorization.enterMainPage();
-        basicAuthorization.checkText();
+        UploadImage uploadImage = new UploadImage(driver);
+        uploadImage.enterMainPage();
+        uploadImage.sendImage();
+        uploadImage.clickOnUpload();
+        uploadImage.assertFileUpload();
     }
     @AfterTest
     public void quit(){

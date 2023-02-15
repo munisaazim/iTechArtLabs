@@ -5,21 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62c2f48f-dfd6-4aa2-95b5-fc2d3406e7de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationSetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture10/iTechArt.Lab10.HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture10/iTechArt.Lab10.HW/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions_Task_Three/ActionsAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions_Task_Three/ActionsFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions_Task_Three/ActionsSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions_Task_Three/ActionsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UploadImage_Task_Two/UploadImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UploadImage_Task_Two/UploadImageAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UploadImage_Task_Two/UploadImageSetUP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization_Task_One/BasicAuthorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization_Task_One/BasicAuthorizationAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationSetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization_Task_One/BasicAuthorizationSetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAuthorization/BasicAuthorizationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAuthorization_Task_One/BasicAuthorizationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicAuthorization/BasicAuthorization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicAuthorization/BasicAuthorizationAssertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicAuthorization/BasicAuthorizationSetUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicAuthorization/BasicAuthorizationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicAuthorization/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +53,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.BasicAuthorizationTests.test">
+  <component name="RunManager" selected="TestNG.ActionsTests.Test">
     <configuration name="Test.launch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="iTechArt.Lab11.HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicAuthorization.*" />
+          <option name="PATTERN" value="BasicAuthorization_Task_One.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,16 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ActionsTests.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actions_Task_Three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Actions_Task_Three" />
+      <option name="MAIN_CLASS_NAME" value="Actions_Task_Three.ActionsTests" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BasicAuthorizationTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="iTechArt.Lab11.HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicAuthorization.*" />
+          <option name="PATTERN" value="BasicAuthorization_Task_One.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="BasicAuthorization" />
-      <option name="MAIN_CLASS_NAME" value="BasicAuthorization.BasicAuthorizationTests" />
+      <option name="MAIN_CLASS_NAME" value="BasicAuthorization_Task_One.BasicAuthorizationTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -89,12 +113,30 @@
       <module name="iTechArt.Lab11.HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicAuthorization.*" />
+          <option name="PATTERN" value="BasicAuthorization_Task_One.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="BasicAuthorization" />
-      <option name="MAIN_CLASS_NAME" value="BasicAuthorization.BasicAuthorizationTests" />
+      <option name="MAIN_CLASS_NAME" value="BasicAuthorization_Task_One.BasicAuthorizationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadImageTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UploadImage_Task_Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UploadImage_Task_Two" />
+      <option name="MAIN_CLASS_NAME" value="UploadImage_Task_Two.UploadImageTests" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -105,6 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ActionsTests.Test" />
+        <item itemvalue="TestNG.UploadImageTests.test" />
         <item itemvalue="TestNG.BasicAuthorizationTests.test" />
         <item itemvalue="JUnit.Test.launch" />
         <item itemvalue="TestNG.BasicAuthorizationTests" />

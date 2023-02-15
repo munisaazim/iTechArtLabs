@@ -1,4 +1,4 @@
-package BasicAuthorization;
+package BasicAuthorization_Task_One;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -16,7 +16,7 @@ public class BasicAuthorization {
         this.driver = driver;
     }
     public BasicAuthorizationAssertion assertelements(){
-        return new BasicAuthorizationAssertion();
+        return new BasicAuthorizationAssertion(driver);
     }
     protected BasicAuthorizationSetUp setUp(){
         return new BasicAuthorizationSetUp(driver);
