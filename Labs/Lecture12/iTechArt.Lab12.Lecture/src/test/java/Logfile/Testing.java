@@ -1,29 +1,29 @@
 package Logfile;
 
-
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-//import java.util.logging.Logger;
-import org.apache.log4j.Logger;
-public class AllTests {
-    @Test
-    public void test(){
-        PropertyConfigurator.configure("src/test/java/Logfile/log4j.properties");
-        //correct
+import java.util.logging.Logger;
+
+public class Testing {
+    // Here we need to create logger instance so we need to pass Class name for
+    //which  we want to create log file in my case Google is classname
+    public static void main(String[] args) {
+        WebDriver driver = new FirefoxDriver();
         Logger log = Logger.getLogger("devpinoyLogger");
-        WebDriver driver = new ChromeDriver();
+        PropertyConfigurator.configure("log4j.properties");
+
         driver.get("https://healthunify.com/bmicalculator/");
         log.info("opening webiste");
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         log.info("entring weight");
         driver.findElement(By.name("wg")).sendKeys("87");
         log.info("selecting kilograms");
-        log.debug("heroooooooooooo");
         driver.findElement(By.name("opt1")).sendKeys("kilograms");
         log.info("selecting height in feet");
         driver.findElement(By.name("opt2")).sendKeys("5");
@@ -47,4 +47,4 @@ public class AllTests {
         System.out.println("note = " + note);
         driver.quit();
     }
-    }
+}
