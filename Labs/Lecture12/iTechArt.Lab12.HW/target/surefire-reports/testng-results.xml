@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T22:38:30 UZT" name="All Test Suite" finished-at="2023-02-16T22:40:33 UZT" duration-ms="122895">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T22:38:30 UZT" name="/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/main/java/org/BuyPageTests.java" finished-at="2023-02-16T22:40:33 UZT" duration-ms="122895">
+      <class name="org.BuyPageTests">
+        <test-method is-config="true" signature="classInit()[pri:0, instance:org.BuyPageTests@5116ac09]" started-at="2023-02-16T22:38:30 UZT" name="classInit" finished-at="2023-02-16T22:38:41 UZT" duration-ms="10993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classInit -->
+        <test-method signature="BuyPageTestsRun()[pri:1, instance:org.BuyPageTests@5116ac09]" started-at="2023-02-16T22:38:41 UZT" name="BuyPageTestsRun" description="Going in all tests" finished-at="2023-02-16T22:40:33 UZT" duration-ms="111700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyPageTestsRun -->
+        <test-method is-config="true" signature="testQuit()[pri:0, instance:org.BuyPageTests@5116ac09]" started-at="2023-02-16T22:40:33 UZT" name="testQuit" finished-at="2023-02-16T22:40:33 UZT" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuit -->
+      </class> <!-- org.BuyPageTests -->
+    </test> <!-- /Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/main/java/org/BuyPageTests.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

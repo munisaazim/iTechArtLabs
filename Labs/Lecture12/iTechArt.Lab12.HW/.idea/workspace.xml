@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="971ab92c-8c6d-4948-add1-d3853667ce06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/LoggerSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng_regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/main/java/org/example/BasePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/test/java/org/example/BasePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/=/src/logsManual.logs" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/=/src/logsManual.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/Selenium.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/test/java/Logfile/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lp379HBsc3l8k21HhwHVVwCAkQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/test/java",
+    "last_opened_file_path": "/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/test/java/org",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/org" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BuyPageTests.BuyPageTestsRun">
+    <configuration name="MultibrowserTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab12.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.MultibrowserTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab12.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyPageTests.BuyPageTestsRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab12.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.BuyPageTests" />
+      <option name="METHOD_NAME" value="BuyPageTestsRun" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BuyPageTests.BuyPageTestsRun" />
+        <item itemvalue="JUnit.MultibrowserTest.Test" />
+        <item itemvalue="JUnit.Test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="971ab92c-8c6d-4948-add1-d3853667ce06" name="Changes" comment="" />
+      <created>1676554027913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676554027913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

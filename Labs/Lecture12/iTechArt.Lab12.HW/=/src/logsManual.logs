@@ -1,0 +1,20 @@
+16/02/2023 22:38:16 devpinoyLogger Running all tests
+16/02/2023 22:38:46 devpinoyLogger Running all tests
+16/02/2023 22:38:46 devpinoyLogger Entering main application page
+16/02/2023 22:39:20 devpinoyLogger Clicking on link
+16/02/2023 22:39:20 devpinoyLogger Setting main page Web Element
+16/02/2023 22:39:58 devpinoyLogger Asserion entering main page
+16/02/2023 22:39:58 devpinoyLogger Setting page header(title) information Web Element
+16/02/2023 22:39:58 devpinoyLogger Clicking on Apple and HONOR, unclicking HONOR
+16/02/2023 22:39:58 devpinoyLogger Setting Apple(text) information Web Element
+16/02/2023 22:39:58 devpinoyLogger Setting HONOR(text) information Web Element
+16/02/2023 22:40:00 devpinoyLogger Setting HONOR(text) information Web Element
+16/02/2023 22:40:00 devpinoyLogger Choosing number one and three products to compare
+16/02/2023 22:40:00 devpinoyLogger Setting Apple(checkbox) information Web Element
+16/02/2023 22:40:00 devpinoyLogger Setting HONOR(text) information Web Element
+16/02/2023 22:40:00 devpinoyLogger Assertion compare limk appearance
+16/02/2023 22:40:00 devpinoyLogger Clicking on Link Web Element
+16/02/2023 22:40:00 devpinoyLogger Click on compare link
+16/02/2023 22:40:00 devpinoyLogger Clicking on Link Web Element
+16/02/2023 22:40:33 devpinoyLogger Assertion text "Сравнение товаров"
+16/02/2023 22:40:33 devpinoyLogger Clicking on Link Web Element
