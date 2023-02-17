@@ -5,36 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971ab92c-8c6d-4948-add1-d3853667ce06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/BuyPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/LoggerSetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng_regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/main/java/org/example/BasePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/TestLeson12HW/src/test/java/org/example/BasePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/BaseElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/iTechArt.Lab13.Lecture2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/=/src/logsManual.logs" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/=/src/logsManual.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/Selenium.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/src/test/java/Logfile/Testing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
