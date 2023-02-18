@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2145317f-921e-4e6d-913d-9a786cb57b41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp/src/main/java/com/mycompany/ConsoleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesktopApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesktopApp/src/main/java/com/mycompany/DesktopApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SharedLibrary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SharedLibrary/src/main/java/com/mycompany/CommonUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture12/iTechArt.Lab12.HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture12/iTechArt.Lab12.HW/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture12/iTechArt.Lab12.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture12/iTechArt.Lab12.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/src/test/java/com/namespace/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BaseElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Browsere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/LocalBrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/BaseElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/BrowserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Browsere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DesktopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.DesktopApp" />
@@ -95,5 +102,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DesktopApp/src/main/java/com/mycompany/DesktopApp.java</url>
+          <line>17</line>
+          <properties class="com.mycompany.DesktopApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
