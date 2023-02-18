@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62c2f48f-dfd6-4aa2-95b5-fc2d3406e7de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LjDNXxn1Yvi0LaQmrMjUaoqe8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.UserTests.test">
+    <configuration name="ActionsTests.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actions_Task_Three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Actions_Task_Three" />
+      <option name="MAIN_CLASS_NAME" value="Actions_Task_Three.ActionsTests" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAuthorizationTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAuthorization_Task_One.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicAuthorization" />
+      <option name="MAIN_CLASS_NAME" value="BasicAuthorization_Task_One.BasicAuthorizationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlesTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Handles_Task_Four.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Handles_Task_Four" />
+      <option name="MAIN_CLASS_NAME" value="Handles_Task_Four.HandlesTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadImageTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UploadImage_Task_Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UploadImage_Task_Two" />
+      <option name="MAIN_CLASS_NAME" value="UploadImage_Task_Two.UploadImageTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab11.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Users_Task_Five.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Users_Task_Five" />
+      <option name="MAIN_CLASS_NAME" value="Users_Task_Five.UserTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserTests.test" />
+        <item itemvalue="TestNG.HandlesTests.test" />
+        <item itemvalue="TestNG.ActionsTests.Test" />
+        <item itemvalue="TestNG.UploadImageTests.test" />
+        <item itemvalue="TestNG.BasicAuthorizationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c2f48f-dfd6-4aa2-95b5-fc2d3406e7de" name="Changes" comment="" />
+      <created>1676375560689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676375560689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

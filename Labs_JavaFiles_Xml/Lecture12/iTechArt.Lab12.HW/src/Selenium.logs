@@ -1,0 +1,20 @@
+22:38:16,390  INFO devpinoyLogger<strong>{1}</strong>:25 - Running all tests
+22:38:46,512  INFO devpinoyLogger<strong>{1}</strong>:25 - Running all tests
+22:38:46,562  INFO devpinoyLogger<strong>{1}</strong>:25 - Entering main application page
+22:39:20,863  INFO devpinoyLogger<strong>{1}</strong>:29 - Clicking on link
+22:39:20,864  INFO devpinoyLogger<strong>{1}</strong>:14 - Setting main page Web Element
+22:39:58,054  INFO devpinoyLogger<strong>{1}</strong>:16 - Asserion entering main page
+22:39:58,057  INFO devpinoyLogger<strong>{1}</strong>:18 - Setting page header(title) information Web Element
+22:39:58,190  INFO devpinoyLogger<strong>{1}</strong>:34 - Clicking on Apple and HONOR, unclicking HONOR
+22:39:58,191  INFO devpinoyLogger<strong>{1}</strong>:22 - Setting Apple(text) information Web Element
+22:39:58,545  INFO devpinoyLogger<strong>{1}</strong>:26 - Setting HONOR(text) information Web Element
+22:40:00,355  INFO devpinoyLogger<strong>{1}</strong>:26 - Setting HONOR(text) information Web Element
+22:40:00,408  INFO devpinoyLogger<strong>{1}</strong>:40 - Choosing number one and three products to compare
+22:40:00,409  INFO devpinoyLogger<strong>{1}</strong>:30 - Setting Apple(checkbox) information Web Element
+22:40:00,517  INFO devpinoyLogger<strong>{1}</strong>:34 - Setting HONOR(text) information Web Element
+22:40:00,599  INFO devpinoyLogger<strong>{1}</strong>:20 - Assertion compare limk appearance
+22:40:00,599  INFO devpinoyLogger<strong>{1}</strong>:38 - Clicking on Link Web Element
+22:40:00,636  INFO devpinoyLogger<strong>{1}</strong>:46 - Click on compare link
+22:40:00,637  INFO devpinoyLogger<strong>{1}</strong>:38 - Clicking on Link Web Element
+22:40:33,142  INFO devpinoyLogger<strong>{1}</strong>:24 - Assertion text "Сравнение товаров"
+22:40:33,144  INFO devpinoyLogger<strong>{1}</strong>:42 - Clicking on Link Web Element
