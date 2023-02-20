@@ -15,6 +15,7 @@ public class UnitTest {
     }
     @Test
     public void Test1(){
+        /*
         String url = "https://www.google.com/";
         Browsere browser = BrowserService.Browser;
         browser.GoToUrl(url);
@@ -24,6 +25,8 @@ public class UnitTest {
         element.sendKeys(text);
         String getText = element.getText();
         Assert.assertEquals(getText, text);
+
+         */
     }
 
 

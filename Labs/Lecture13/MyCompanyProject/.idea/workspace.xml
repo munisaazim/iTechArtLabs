@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2145317f-921e-4e6d-913d-9a786cb57b41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/src/test/java/com/namespace/UnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BaseElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Browsere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/LocalBrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/BaseElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/BrowserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Browsere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/test/java/com/namespace/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/BaseElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/BaseForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/BrowserSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/FrameWork/src/main/java/com/namespace/TextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/src/test/java/PageObject/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/src/test/java/PageObject/Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/src/test/java/PageObject/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/src/test/java/PageObject/Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.HW/Tests/src/test/java/RunTests/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/DriverSettings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/src/test/java/com/namespace/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/SeleniumTests/src/test/java/com/namespace/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/BrowserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/LocalBrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab13.Lecture/Wrapper/src/main/java/com/namespace/LocalBrowserFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
