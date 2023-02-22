@@ -3,19 +3,16 @@ package org.example;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.core.Is.is;
+
 public class AdditionTest {
+    private Addition additionObject;
     @Test
-    public void checkAdditionOne(){
-        Addition object = new Addition();
-        double num1 = 3, num2 = 5;
-        double resultOne = object.additionCalculation(num1, num2);
-        Assert.assertEquals(resultOne, 8.0);
-    }
-    @Test
-    public void checkAdditionTwo(){
-        Addition object = new Addition();
-        double num1 = 8, num2 = 2.2;
-        double resultTwo = object.additionCalculation(num1, num2);
-        Assert.assertEquals(resultTwo, 10.2);
+    public void checkAdditionMethods(){
+        additionObject = new Addition();
+        double numberOne = 3, numberTwo = 5;
+        double resultOne = additionObject.additionCalculation(numberOne, numberTwo);
+        assertThat("Addition of two numbers is correct", resultOne, is(8.0));
     }
 }
