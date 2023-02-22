@@ -1,0 +1,1 @@
+{"uuid":"8f3ec290-a333-4f8c-9cf3-bf85134fcc13","name":"HW_Task","children":["4d916971-d596-4f91-878d-a58a51e140d5"],"befores":[{"name":"setFunctions","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677059506970,"stop":1677059514940}],"afters":[],"start":1677059506961,"stop":1677059547642}
