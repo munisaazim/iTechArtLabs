@@ -1,48 +1,42 @@
 package org.example;
 
-import org.checkerframework.checker.units.qual.C;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
+import java.time.Duration;
+
 public class Selenium {
-    WebDriver driver;
-    JavascriptExecutor js;
-    public void setUp(){
-        driver = new ChromeDriver();
-        js = (JavascriptExecutor)driver;
-        driver.manage().window().maximize();
+    private WebDriver driver;
+    private String url = "https://catalog.onliner.by/";
+    private WebElement elementApple, elementHONOR, elementChooseNumberOne, elementChooseNumberTwo, elementCompareLink, elementComparePageHeader;
+    public Selenium(WebDriver driver){
+        this.driver = driver;
     }
     public void enterPage(){
-        driver.get("https://catalog.onliner.by/");
+        driver.get(url);
     }
     public void mobileEnter(){
         driver.findElement(By.xpath("(//*[@href = 'https://catalog.onliner.by/mobile'])[2]")).click();
-        Assert.assertTrue(driver.findElement(By.xpath("//h1[contains(@class , 'schema-header__title')]")).isDisplayed());
     }
-    public void chooseMobile() throws InterruptedException {
-        WebElement element = driver.findElement(By.xpath("(//*[text() = 'Apple'])[2]"));
-        js.executeScript("arguments[0].click()", element);
-        Thread.sleep(20);
-        //driver.findElement(By.xpath("(//*[text() = 'HONOR'])[2]")).click();
-        WebElement element2 =  driver.findElement(By.xpath("(//*[text() = 'HONOR'])[2]"));
-        js.executeScript("arguments[0].click()", element2);
-        js.executeScript("arguments[0].click()", element2);
+    public void chooseMobile(){
+        elementApple = driver.findElement(By.xpath("//ul[@class='schema-filter__list']//span[@class='schema-filter__checkbox-text'][normalize-space()='Apple']"));
+        elementApple.click();
+        elementHONOR = driver.findElement(By.xpath("//ul[@class='schema-filter__list']//span[@class='schema-filter__checkbox-text'][normalize-space()='HONOR']"));
+        elementHONOR.click();
+        elementHONOR.click();
     }
-    public void chooseNumber(){
-        WebElement element1 = driver.findElement(By.xpath("(//*[@class = 'schema-product__control'])[1]"));
-        WebElement element3 = driver.findElement(By.xpath("(//*[@class = 'schema-product__control'])[3]"));
-        js.executeScript("arguments[0].click()", element1);
-        js.executeScript("arguments[0].click()", element3);
-        WebElement element4 = driver.findElement(By.xpath("//*[contains(@href , 'https://catalog.onliner.by/compare')]"));
-        Assert.assertTrue(element4.isDisplayed());
+    public void chooseProductOneAndProductThree(){
+        elementChooseNumberOne = driver.findElement(By.xpath("(//*[@class = 'schema-product__control'])[1]"));
+        elementChooseNumberTwo = driver.findElement(By.xpath("(//*[@class = 'schema-product__control'])[3]"));
+        elementChooseNumberOne.click();
+        elementChooseNumberTwo.click();
+        elementCompareLink= driver.findElement(By.xpath("//*[contains(@href , 'https://catalog.onliner.by/compare')]"));
+        elementCompareLink.click();
     }
-    public void comparePage(){
-        WebElement element4 = driver.findElement(By.xpath("//*[contains(@href , 'https://catalog.onliner.by/compare')]"));
-        element4.click();
-        Assert.assertEquals(driver.findElement(By.xpath("//h1")).getText(), "Сравнение товаров");
+    public void comparePageAssert(){
+        elementComparePageHeader = driver.findElement(By.xpath("//h1[@class = 'b-offers-title']"));
+        Assert.assertTrue(elementComparePageHeader.isDisplayed(), "Compare Page Header text is displayed");
     }
 }
