@@ -31,7 +31,7 @@ public class TC1 {
         toolQAPage.clickOnStop();
     }
     @AfterTest
-   public void quitTest(){
+    public void quitTest(){
      driver.quit();
     }
 }

@@ -3,6 +3,7 @@ package HW_Task_3;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -28,7 +29,7 @@ public class TC1 {
         browserWindowPage.clickOnNestedFrames();
         browserWindowPage.assertParentText();
     }
-   // @AfterTest
+    @AfterTest
     public void quitTest(){
         driver.quit();
     }
