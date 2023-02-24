@@ -1,4 +1,4 @@
-package com.namespace.pages;
+package namespace.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,7 +11,7 @@ public class MainPage {
         this.driver = driver;
         PageFactory.initElements( driver, this);
     }
-    @FindBy(xpath = "(//*[@href = 'https://catalog.onliner.by/mobile'])[2]") WebElement elementMobile;
+    @FindBy(xpath = "//*[@href = 'https://catalog.onliner.by/mobile']") WebElement elementMobile;
     public void clickOnMobileLink(){
         elementMobile.click();
     }

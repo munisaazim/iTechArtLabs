@@ -1,4 +1,4 @@
-package com.namespace.pages;
+package namespace.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -19,13 +19,13 @@ public class ChoosePhonesPage {
         elementApple.click();
         elementHONOR.click();
     }
-    @FindBy(xpath = "\"(//*[@class = 'schema-product__control'])[1]\"")private WebElement elementChooseNumberOne;
-    @FindBy(xpath = "\"(//*[@class = 'schema-product__control'])[3]\"")private WebElement elementChooseNumberThree;
+    @FindBy(xpath = "\"(//*[@class = 'schema-product__control'])[1]\"") WebElement elementChooseNumberOne;
+    @FindBy(xpath = "\"(//*[@class = 'schema-product__control'])[3]\"") WebElement elementChooseNumberThree;
     public void clickOnProductOneAndProductTwo(){
         elementChooseNumberOne.click();
         elementChooseNumberThree.click();
     }
-    @FindBy(xpath = "\"//*[contains(@href , 'https://catalog.onliner.by/compare')]\"")private WebElement elementLinkCompareProducts;
+    @FindBy(xpath = "\"//*[contains(@href , 'https://catalog.onliner.by/compare')]\"") WebElement elementLinkCompareProducts;
     public void clickOnLinkCompareProducts(){
         elementLinkCompareProducts.click();
     }

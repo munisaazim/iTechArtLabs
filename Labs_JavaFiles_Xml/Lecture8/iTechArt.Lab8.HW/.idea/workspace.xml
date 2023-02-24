@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc5677a-5362-4620-b9d3-ed8abf776850" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/src/test/java/com/namespace/pages/ChoosePhonesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/src/test/java/com/namespace/pages/CompareProductsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/src/test/java/com/namespace/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/src/test/java/org/example/BuyPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/src/test/java/org/example/BuyPageTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebc5677a-5362-4620-b9d3-ed8abf776850" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

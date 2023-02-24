@@ -1,8 +1,7 @@
-package com.namespace.tests;
-
-import com.namespace.pages.ChoosePhonesPage;
-import com.namespace.pages.CompareProductsPage;
-import com.namespace.pages.MainPage;
+package namespace.tests;
+import namespace.pages.ChoosePhonesPage;
+import namespace.pages.CompareProductsPage;
+import namespace.pages.MainPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
@@ -30,8 +29,10 @@ public class TC1 {
         compareProductsPage.assertCompareProductsPage();
 
     }
+    /*
     @AfterTest
     public void quit(){
         TC1.driver.quit();
     }
+     */
 }
