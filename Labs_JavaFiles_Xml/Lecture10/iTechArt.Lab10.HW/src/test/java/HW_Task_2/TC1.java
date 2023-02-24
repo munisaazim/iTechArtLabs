@@ -1,6 +1,5 @@
 package HW_Task_2;
 
-import HW_Task_1.DemoQAPage;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

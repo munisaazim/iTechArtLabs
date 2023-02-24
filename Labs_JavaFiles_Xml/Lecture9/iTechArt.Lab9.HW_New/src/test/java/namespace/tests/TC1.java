@@ -29,7 +29,6 @@ public class TC1 {
         choosePhonesPage.clickOnLinkCompareProducts();
         CompareProductsPage compareProductsPage = new CompareProductsPage(driver);
         compareProductsPage.assertCompareProductsPage();
-
     }
 
     @AfterTest

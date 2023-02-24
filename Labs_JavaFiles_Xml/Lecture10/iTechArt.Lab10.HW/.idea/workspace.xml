@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423063ed-d926-499d-a401-f151a957b108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/TC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/TC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQAPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/TC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAClicks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQASetUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQATest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAWait.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_1/DemoQAssertion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQASetUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQATests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQAssertions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQAPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_2/ToolQAPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/BrowserWindowPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_Task_3/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW_Task_3/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW_New/src/test/java/namespace/pages/ChoosePhonesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW_New/src/test/java/namespace/pages/ChoosePhonesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW_New/src/test/java/namespace/tests/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW_New/src/test/java/namespace/tests/TC1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
