@@ -5,29 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971ab92c-8c6d-4948-add1-d3853667ce06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/BaseElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture/src/test/java/org/example/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/iTechArt.Lab13.Lecture2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lecture13/iTechArt.Lab13.Lecture2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Labs/Lecture13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Labs/Lecture13/.idea/Lecture13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Labs/Lecture13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Labs/Lecture13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ChoosePhonesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/CompareProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture11/iTechArt.Lab11.HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture11/iTechArt.Lab11.HW/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iTechArt.Lab12.Lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/=/src/logsManual.logs" beforeDir="false" afterPath="$PROJECT_DIR$/=/src/logsManual.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selenium.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/BuyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/BuyPageAssertions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/BuyPageElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/BuyPageTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_regression.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture9/iTechArt.Lab9.HW/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/test/java",
-    "last_opened_file_path": "/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/test/java/org",
+    "last_opened_file_path": "/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs_JavaFiles_Xml/Lecture12/iTechArt.Lab12.HW/src/test/java/org",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
@@ -72,7 +68,7 @@
       <recent name="org" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BuyPageTests.BuyPageTestsRun">
+  <component name="RunManager" selected="TestNG.TC1.runTC1">
     <configuration name="MultibrowserTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="iTechArt.Lab12.HW" />
       <extension name="coverage">
@@ -123,8 +119,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TC1.runTC1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iTechArt.Lab12.HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TC1" />
+      <option name="METHOD_NAME" value="runTC1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TC1.runTC1" />
         <item itemvalue="TestNG.BuyPageTests.BuyPageTestsRun" />
         <item itemvalue="JUnit.MultibrowserTest.Test" />
         <item itemvalue="JUnit.Test.test" />

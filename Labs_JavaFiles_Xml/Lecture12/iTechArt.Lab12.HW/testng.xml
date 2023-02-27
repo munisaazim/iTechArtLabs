@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/munisaazimkhodjaeva/IntelliJ IDEA/Java_Programming/iTechArt_AQA/Labs/Lecture12/iTechArt.Lab12.HW/src/main/java/org/BuyPageTests.java"><classes><class name="org.BuyPageTests"><methods><include name="BuyPageTestsRun"/></methods></class></classes></test></suite>

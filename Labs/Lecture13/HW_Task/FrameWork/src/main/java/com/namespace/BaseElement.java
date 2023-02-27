@@ -14,12 +14,11 @@ public abstract class BaseElement {
     private WebDriverWait wait;
     private final WebDriver driver;
 
-    BaseElement(WebDriver driver, By loc, String name) {
+    public BaseElement(WebDriver driver, By loc, String name) {
         this.driver = driver;
         this.loc = loc;
         System.out.println("Driver:" + driver);
     }
-
     protected WebElement findElement() {
         return this.driver.findElement(loc);
     }

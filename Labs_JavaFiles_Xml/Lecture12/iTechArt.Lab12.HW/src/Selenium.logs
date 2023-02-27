@@ -18,3 +18,5 @@
 22:40:00,637  INFO devpinoyLogger<strong>{1}</strong>:38 - Clicking on Link Web Element
 22:40:33,142  INFO devpinoyLogger<strong>{1}</strong>:24 - Assertion text "Сравнение товаров"
 22:40:33,144  INFO devpinoyLogger<strong>{1}</strong>:42 - Clicking on Link Web Element
+12:37:10,303  INFO devpinoyLogger<strong>{1}</strong>:19 - Clicking on link
+12:37:44,962  INFO devpinoyLogger<strong>{1}</strong>:21 - Clicking on Apple and HONOR, unclicking HONOR
