@@ -6,19 +6,26 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class UploadImageTests {
+import java.util.concurrent.TimeUnit;
+
+public class TC1 {
     private WebDriver driver;
+    private String pageUrl = "http://the-internet.herokuapp.com/upload";
+    private UploadImagePage uploadImage;
+
     @BeforeTest
-    public void setDriver(){
+    public void setUp(){
         driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.get(pageUrl);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
     @Test
-    public void test(){
-        UploadImage uploadImage = new UploadImage(driver);
-        uploadImage.enterMainPage();
+    public void runTests(){
+        uploadImage = new UploadImagePage(driver);
         uploadImage.sendImage();
         uploadImage.clickOnUpload();
-        uploadImage.assertFileUpload();
+        uploadImage.assertUploadedFileText();
     }
     @AfterTest
     public void quit(){

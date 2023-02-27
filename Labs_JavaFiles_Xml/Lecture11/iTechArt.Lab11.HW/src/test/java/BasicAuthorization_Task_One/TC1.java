@@ -6,18 +6,19 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class BasicAuthorizationTests {
+public class TC1 {
     private WebDriver driver;
+    private BasicAuthorizationPage basicAuthorizationPage;
 
     @BeforeTest
-    public void setDriver(){
-    driver  = new ChromeDriver();
-}
+    public void setUp(){
+        this.driver = new ChromeDriver();
+        basicAuthorizationPage = new BasicAuthorizationPage(driver);
+        basicAuthorizationPage.enterMainPageSetUp();
+    }
     @Test
-    public void test(){
-        BasicAuthorization  basicAuthorization = new BasicAuthorization(driver);
-        basicAuthorization.enterMainPage();
-        basicAuthorization.checkText();
+    public void runTests(){
+        basicAuthorizationPage.checkText();
     }
     @AfterTest
     public void quit(){
